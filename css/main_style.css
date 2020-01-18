@@ -1,0 +1,19 @@
+body {
+    font-family: verdana;
+    text-align: center;
+}
+
+h1, h2 {
+    font-size: 4vw;
+	color: white;
+    background-color: #03265e;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#intro-images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
